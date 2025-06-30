@@ -1,7 +1,7 @@
 # LanguageAI v1 full
 In new uptade voice translator.
 # Open-source
-LanguageAI-Full open-source model. You can use it for integration in you apps.
+LanguageAI-Full open-source model. You can use it for integrate in you apps.
 # 🚀 Beta
 Now LanguageAI still in beta. And dictionary for translations now small.
 # Information
